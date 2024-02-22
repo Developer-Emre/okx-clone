@@ -5,6 +5,10 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 - Tailwind.css
 - TypeScript
 
+## Kurulum
+
+1. Proje dizinine gidin.
+2. `npm install` komutunu çalıştırın.
 
 ## Kullanım
 
