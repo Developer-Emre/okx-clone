@@ -22,13 +22,13 @@ bun dev
 
 ## Ekran Görüntüleri
 
-- Responsive Tasarım
+- Mobil Görünüm
 
 <img src="https://r2.easyimg.io/py48jyp3u/ekran_resmi_2024-02-22_13.10.09.png" alt="Açıklama" width="414" height="736">
 
+- Masaüstü Görünüm
 
-
-
+<img src="https://r2.easyimg.io/72jwu2r1c/ekran_resmi_2024-02-22_12.53.50.png" alt="Açıklama" width="1250" height="650">
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
