@@ -1,8 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+## Kullanılan Teknolojier
+- Next.js
+- Tailwind.css
+- TypeScript
 
-First, run the development server:
+
+## Kullanım
+
+Proje'nin çalıştırılması için şu komutu çalıştırın
 
 ```bash
 npm run dev
@@ -13,6 +19,15 @@ pnpm dev
 # or
 bun dev
 ```
+
+## Ekran Görüntüleri
+
+- Responsive Tasarım
+
+![Proje Ekran Görüntüsü]([https://example.com/screenshot.png](https://easyimg.io/l?url=py48jyp3u))
+
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
