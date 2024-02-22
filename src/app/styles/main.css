@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.container{
+    width: none;
+}
+body{
+    background-color: #000;
+    box-sizing: border-box;
+    
+}
+
+span{
+   font-weight: 200;
+}
+
+.text-white{
+    width: -webkit-fill-available;
+}
+
+.navbar,.footer{
+    background-color: #121212;
+}
