@@ -24,7 +24,7 @@ bun dev
 
 - Responsive Tasarım
 
-![Proje Ekran Görüntüsü]([https://example.com/screenshot.png](https://easyimg.io/l?url=py48jyp3u))
+![Proje Ekran Görüntüsü](https://r2.easyimg.io/py48jyp3u/ekran_resmi_2024-02-22_13.10.09.png)
 
 
 
