@@ -1,5 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`okx-clone`]([https://github.com/vercel/next.js/tree/canary/packages/create-next-app](https://okx-clone-delta.vercel.app/)).
 
+## Vercel Bağlantısı
+
+https://okx-clone-delta.vercel.app/
+
 ## Kullanılan Teknolojier
 - Next.js
 - Tailwind.css
