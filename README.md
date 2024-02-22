@@ -24,7 +24,7 @@ bun dev
 
 - Responsive Tasarım
 
-<img src="https://r2.easyimg.io/py48jyp3u/ekran_resmi_2024-02-22_13.10.09.png" alt="Açıklama" width="500" height="300">
+<img src="https://r2.easyimg.io/py48jyp3u/ekran_resmi_2024-02-22_13.10.09.png" alt="Açıklama" width="414" height="736">
 
 
 
